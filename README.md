@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dmaestro0
+- 👋 Hi, I’m Jose!
 - 👀 I’m interested on th Front End Development at the moment
 - 🌱 I’m currently learning HTML/CSS/JAVA
 - 💞️ I’m looking to collaborate on ANYTHING!! 
