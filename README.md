@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jose!
 - 👀 I’m interested on th Front End Development at the moment
-- 🌱 I’m currently learning HTML/CSS/JAVA
+- 🌱 I’m currently learning HTML/CSS/JSON
 - 💞️ I’m looking to collaborate on ANYTHING!! 
 - 📫 How to reach me: josemedina27@icloud.com
 - 😄 Pronouns: He/They
